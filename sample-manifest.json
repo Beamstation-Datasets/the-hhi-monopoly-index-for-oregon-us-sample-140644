@@ -1,0 +1,12 @@
+{
+  "export_job_id": "10ea25b0-b638-419d-bbf1-d5b044dee8f3",
+  "id_short": 140644,
+  "published_at": "2026-04-11T19:02:06Z",
+  "repo_name": "the-hhi-monopoly-index-for-oregon-us-sample-140644",
+  "sample_asset_name": "beamstation_140644_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/140644/beamstation_140644_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_records": 28,
+  "sample_sha256": "7db631951e62906fed2e2d9ccf9b3cfa9bd73de57c79efb43af2b6de02a67dcf",
+  "sample_size_bytes": 119660,
+  "total_records": 289
+}
