@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Oregon, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `140644` |
 | Location | Oregon |
 | Category | Restaurants |
-| Full dataset size | 200 records |
-| Free sample size | 20 records (10.0%) |
-| Last export | 2026-04-22T12:27:29.131064+00:00 |
+| Full dataset size | 260 records |
+| Free sample size | 26 records (10.0%) |
+| Last export | 2026-04-29T13:20:56.509375+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-oregon-us-sample-140644/releases/download/sample-latest/beamstation_140644_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
